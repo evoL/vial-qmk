@@ -8,6 +8,9 @@
 #define BOTH_SHIFTS_TURNS_ON_CAPS_WORD
 #define CAPS_WORD_INVERT_ON_SHIFT
 
+/* Achordion settings */
+#define ACHORDION_STREAK
+
 /* Split keyboard settings */
 #define SERIAL_USART_TX_PIN GP28
 #define SPLIT_HAND_PIN GP0
